@@ -1,2 +1,2 @@
 # mein-github
-Hier ist ein erstes Projekt auf dieser Plattform
+Hier ist mein erstes Projekt auf dieser Plattform
